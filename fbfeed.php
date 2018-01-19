@@ -85,6 +85,8 @@
 		// useful for photo
 		$object_id = $obj['data'][$x]['object_id'];
 	
+	// ------ change formating to suit ------- the below code uses bootstrap classes
+		
 		//echo "<div class='row'>";
  
 			echo "<div class='col-md-4'>";
